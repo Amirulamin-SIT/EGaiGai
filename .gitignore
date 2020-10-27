@@ -1,0 +1,3 @@
+src/.credentials
+.vscode/launch.json
+.phpunit.result.cache
