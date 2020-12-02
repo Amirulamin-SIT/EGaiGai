@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpunit/phpunit": "^8",
+        "twilio/sdk": "6.11.0",
+        "paypal/paypal-checkout-sdk": "1.0.1",
+        "sendgrid/sendgrid": "~7"
+    }
+}
